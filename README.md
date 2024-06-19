@@ -1,7 +1,8 @@
 # Integrated-BIM
 
 ## Semantic Versioning for Public Releases
-https://semver.org/
+Reference: https://semver.org/
+
 1-Major Version (X.0.0):
 1.	For desktop apps, this could mean major UI redesign, changes in core functionalities, or any alteration that would require users to adapt to new usage patterns.
 2-Minor Version (X.Y.0):
